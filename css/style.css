@@ -1,0 +1,109 @@
+/* SECCION 1 */
+
+/* SECCION 2 */
+
+/* SECCION 3 - 4 - 5 */
+
+
+.col-sec3-1{ 
+	height: 595px;;
+} 
+.col-sec3-1 img{
+	width: 100%;
+	margin-top: 90px;
+}
+.col-sec3-2 img{
+	margin-top: 112px;
+	float: left;
+}
+.text-sec3-1{
+	float: left;
+	margin-top: 115px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 22px;
+	letter-spacing: -2px;
+	color: #3d3e40;
+}
+.text-sec3-2{
+	clear: left;
+	margin-top: 169px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 22px;
+	letter-spacing: -2px;
+	color: #858585;
+}
+
+
+.col-sec4-2{ 
+	height: 595px;
+	padding-right: 0px;
+	margin-top: 67px;
+} 
+.margin-sec4{
+	margin-left: 170px;
+}
+.row-sec4{
+	background-color: #fafafa;
+	height: 595px;
+}
+.text-sec4-1{
+	float: left;
+	margin-top: 115px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 22px;
+	letter-spacing: -2px;
+	color: #3d3e40;
+}
+.text-sec4-2{
+	clear: left;
+	margin-top: 169px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 22px;
+	letter-spacing: -2px;
+	color: #858585;
+}
+.col-sec4-2 img{
+	margin-top: 112px;
+	float: left;
+	padding-right: 0px;
+}
+
+.col-sec5-2{ 
+	height: 595px;
+	padding-right: 0px;
+	margin-top: 67px;
+} 
+
+.row-sec5{
+	background-image: url('img/fondo-sec5.png');
+	height: 595px;
+}
+.text-sec5-1{
+	float: left;
+	margin-top: 115px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 22px;
+	letter-spacing: -2px;
+	color: #3d3e40;
+}
+.text-sec5-2{
+	clear: left;
+	margin-top: 169px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 22px;
+	letter-spacing: -2px;
+	color: #858585;
+}
+.col-sec5-2 img{
+	margin-top: 112px;
+	float: left;
+}
+/* SECCION 6 */
+
+/* SECCION 7 */
+
+/* SECCION 8 */
+
+/* SECCION 9 */
+
+/* PLANTILLA TUTORIAL */
